@@ -12,7 +12,7 @@ dan tidak lupa juga dengan kata kata dari beliau yang membuat para prorammer aka
 
 ### cara menjalankan source code ini
 
-- dianjurkan untuk menjalankan source code ini menggunakan sebuah web server, dikarenakan di source code ini terdapat file JSON. 
+- jika saat kalian jalankan source code ini di web browser kalian tidak tampil card sama sekali, maka, saya anjurkan untuk menjalankan source code ini di web server.
 
 ### Preview
 

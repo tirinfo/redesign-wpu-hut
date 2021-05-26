@@ -9,3 +9,7 @@ jika kalian ingin mengunjungi channel beliau, silahkan klik link bagian bawah in
 dan tidak lupa juga dengan kata kata dari beliau yang membuat para prorammer akan selalu mengingatnya, yaitu :
 
 > jangan lupa titik koma
+
+### Preview
+
+![gambar1](https://github.com/candradwicahyo/redesign-wpu-hut/blob/master/assets/img/IMG_20210526_081308.jpg)
